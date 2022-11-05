@@ -1,0 +1,13 @@
+
+
+
+class CfgSounds
+{
+	class intro
+	{
+		name = "intro"; // Name for mission editor
+		sound[] = {\sound\intro.ogg, 3, 1.0};
+		titles[] = {0, ""};
+	
+	};
+};
